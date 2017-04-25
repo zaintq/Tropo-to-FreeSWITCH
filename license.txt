@@ -1,0 +1,3 @@
+Copyright (c) 2017 by Center for Speech and Language Technologies (CSaLT), Information Technology University of the Punjab, Lahore, Pakistan. Your use of the tropo-to-freeswitch library is subject to our Creative Commons License, which lets you remix, tweak, and build upon our work even for commercial purposes, as long as you credit us and license your new creations under the identical terms. 
+
+Please direct all queries to csalt@itu.edu.pk.
